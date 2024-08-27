@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/angelshp","Browsing Angel Shop","Verified Resellers"];
+const statusMessages = [".gg/angelshp","Browsing Angel Shop 🪽","Create Ticket 🎫"];
 
 
 let currentIndex = 0;
